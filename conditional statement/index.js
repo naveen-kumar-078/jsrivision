@@ -1,4 +1,4 @@
-let score =60 ; 
+let score =82 ; 
  
 if ( score >  90) {
     alert(`GRADE A`)
