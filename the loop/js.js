@@ -8,16 +8,16 @@ document.getElementById("demo").innerHTML = text*/
 
 
 
-/*let text = " ";
+let text = " ";
  let i = 0;
                                             
  while(i<10){                                
-    text+= "the number is "+ i + "<br>"                    while loop
+    text+= "the number is "+ i + "<br>"                   
     i++      
     
  }
 
- document.getElementById("demo").innerHTML = text*/
+ document.getElementById("demo").innerHTML = text
 
 
 
