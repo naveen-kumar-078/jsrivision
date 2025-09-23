@@ -1,0 +1,31 @@
+div.center{
+    text-align: center;
+    background-color: aqua;
+    margin: 20px 200px 0px 200px ;
+    border-radius: 50px 50px 50px 50px;
+    padding: 0px 0px 20px 0px;
+    margin: 100px;
+}
+body{
+    background-image: url("indian-chief-election-commissioner-rajiv-kumar-seen-during-a-press-conference-announcing-that.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+label{
+    color: rgb(3, 20, 36);
+}
+
+h1.demo{
+      color: rgb(12, 9, 1);
+      stroke: rgb(180, 17, 17);
+      stroke-width: 200px;
+      background-color: rgb(235, 232, 229);
+      margin: 0px 100px 10px 100px;
+}
+h1.hi{
+   background-color: rgb(247, 248, 247); 
+   color: rgb(255, 153, 0);
+   border-radius: 20px;
+}
+
